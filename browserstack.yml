@@ -1,0 +1,25 @@
+userName: jimbrave_rVOL1m
+accessKey: Huz5MbKonThWiR8R5LVS
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+  - deviceName: Samsung Galaxy S23 Ultra
+    osVersion: 13.0
+    browserName: chrome
+    deviceOrientation: portrait
+  - os: OS X
+    osVersion: Ventura
+    browserName: Safari
+    browserVersion: 16.3
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: bstack-demo
+buildIdentifier: ${BUILD_NUMBER}
+projectName: BrowserStack Sample
+testObservability: true
+networkLogs: true
+consoleLogs: errors
+acceptInsecureCerts: true
