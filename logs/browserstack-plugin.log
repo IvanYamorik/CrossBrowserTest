@@ -84,3 +84,14 @@
 21:00:39.035 [ApplicationImpl pooled thread 363] INFO  com.browserstack.utils.Helpers - C:/Users/surfi/.m2/repository/com/browserstack/browserstack-java-sdk/1.5.2/browserstack-java-sdk-1.5.2.jar
 21:00:39.035 [ApplicationImpl pooled thread 363] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/surfi/.m2/repository/com/browserstack/browserstack-java-sdk/1.5.2/browserstack-java-sdk-1.5.2.jar
 21:00:39.035 [ApplicationImpl pooled thread 363] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+13:24:06.587 [ApplicationImpl pooled thread 51] INFO  c.b.l.BrowserStackRunExtension - testng
+13:24:06.590 [ApplicationImpl pooled thread 51] INFO  com.browserstack.utils.Helpers - true
+13:24:06.590 [ApplicationImpl pooled thread 51] INFO  com.browserstack.utils.Helpers - C:/Users/surfi/.m2/repository/com/browserstack/browserstack-java-sdk/1.5.2/browserstack-java-sdk-1.5.2.jar
+13:24:06.591 [ApplicationImpl pooled thread 51] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/surfi/.m2/repository/com/browserstack/browserstack-java-sdk/1.5.2/browserstack-java-sdk-1.5.2.jar
+13:24:06.591 [ApplicationImpl pooled thread 51] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+13:26:38.554 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+13:26:38.556 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/surfi/.m2/repository/com/browserstack/browserstack-java-sdk/1.5.2/browserstack-java-sdk-1.5.2.jar
+13:26:38.556 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+13:26:38.569 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+13:26:38.570 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/surfi/.m2/repository/com/browserstack/browserstack-java-sdk/1.5.2/browserstack-java-sdk-1.5.2.jar
+13:26:38.570 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
